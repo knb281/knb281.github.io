@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Databases and Big Data
+- skill: Databases and Big Data
+  description: SQL Server, MySQL, Excel/Access
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Analytics/Visualization/CRM
+- skill: Analytics/Visualization/CRM
+  description: Tableau, PowerBI
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Programming
+- skill: Programming
+  description: Python, R, SQL
