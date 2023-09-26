@@ -23,7 +23,7 @@ resume_contact_address:         "SLC, UT"
 resume_header_contact_info:     "SLC, UT • 201-543-1585 • kim.buesser@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>As a dedicated Data Analyst with a passion for unraveling insights from complex datasets, I am currently pursuing a Masters in Data Science to further enhance my skills and broaden my knowledge in the field. I am excited to leverage my existing experience in data analysis and embark on a new journey in the world of data science. </p>"
+resume_header_intro: "<p>Dedicated Data Analyst with a passion for unraveling insights from complex datasets. I am currently pursuing a Masters in Data Science to further enhance my skills and broaden my knowledge in the field. I am excited to leverage my existing experience in data analysis and embark on a new journey in the world of data science. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
